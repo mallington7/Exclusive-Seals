@@ -1,0 +1,169 @@
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\bin\Debug\Playground.exe.config
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\bin\Debug\Playground.exe
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\bin\Debug\Playground.pdb
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\bin\Debug\Playground.xml
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\bin\Debug\DataModel.dll
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\bin\Debug\EntityFramework.dll
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\bin\Debug\DataModel.pdb
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\bin\Debug\DataModel.xml
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\bin\Debug\DataModel.dll.config
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\bin\Debug\EntityFramework.xml
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\obj\Debug\Playground.vbprojResolveAssemblyReference.cache
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\obj\Debug\Playground.Resources.resources
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\obj\Debug\Playground.vbproj.GenerateResource.Cache
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\obj\Debug\Playground.vbproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\obj\Debug\Playground.exe
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\obj\Debug\Playground.xml
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\Playground\obj\Debug\Playground.pdb
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\Templates\OrderPromptRRD\Default.cshtml
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\Playground.exe.config
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\Playground.exe
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\Playground.pdb
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\Playground.xml
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\CPI.Edi.Services.Email.dll
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DataModel.dll
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\EntityFramework.dll
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\itextsharp.dll
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\RazorEngine.dll
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\itextsharp.xmlworker.dll
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\System.Web.Razor.dll
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\CPI.Edi.Services.Email.pdb
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DataModel.pdb
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DataModel.xml
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DataModel.dll.config
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\EntityFramework.xml
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\itextsharp.xml
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\RazorEngine.xml
+C:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\System.Web.Razor.xml
+C:\Projects\FreshCheckout\CustomPortal\Playground\obj\Debug\Playground.vbprojResolveAssemblyReference.cache
+C:\Projects\FreshCheckout\CustomPortal\Playground\obj\Debug\Playground.Resources.resources
+C:\Projects\FreshCheckout\CustomPortal\Playground\obj\Debug\Playground.vbproj.GenerateResource.Cache
+C:\Projects\FreshCheckout\CustomPortal\Playground\obj\Debug\Playground.vbproj.CoreCompileInputs.cache
+C:\Projects\FreshCheckout\CustomPortal\Playground\obj\Debug\Playground.exe
+C:\Projects\FreshCheckout\CustomPortal\Playground\obj\Debug\Playground.xml
+C:\Projects\FreshCheckout\CustomPortal\Playground\obj\Debug\Playground.pdb
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\Templates\OrderPromptRRD\Default.cshtml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\Playground.exe.config
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\Playground.exe
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\Playground.pdb
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\Playground.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\CPI.Edi.Services.Email.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DataModel.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\EntityFramework.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\itextsharp.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\RazorEngine.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\itextsharp.xmlworker.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\System.Web.Razor.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\CPI.Edi.Services.Email.pdb
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DataModel.pdb
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DataModel.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DataModel.dll.config
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\EntityFramework.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\itextsharp.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\RazorEngine.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\System.Web.Razor.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\obj\Debug\Playground.vbprojResolveAssemblyReference.cache
+E:\Projects\FreshCheckout\CustomPortal\Playground\obj\Debug\Playground.Resources.resources
+E:\Projects\FreshCheckout\CustomPortal\Playground\obj\Debug\Playground.vbproj.GenerateResource.Cache
+E:\Projects\FreshCheckout\CustomPortal\Playground\obj\Debug\Playground.vbproj.CoreCompileInputs.cache
+E:\Projects\FreshCheckout\CustomPortal\Playground\obj\Debug\Playground.exe
+E:\Projects\FreshCheckout\CustomPortal\Playground\obj\Debug\Playground.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\obj\Debug\Playground.pdb
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Pdf.v17.1.Drawing.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Docs.v17.1.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Data.v17.1.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Snap.v17.1.Core.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.DataAccess.v17.1.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Office.v17.1.Core.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Xpo.v17.1.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.CodeParser.v17.1.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Pdf.v17.1.Drawing.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Docs.v17.1.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Data.v17.1.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Snap.v17.1.Core.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.DataAccess.v17.1.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Office.v17.1.Core.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\DevExpress.Xpo.v17.1.xml
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\de\DevExpress.Snap.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\es\DevExpress.Snap.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ja\DevExpress.Snap.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ru\DevExpress.Snap.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\de\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\es\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ja\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ru\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+E:\Projects\FreshCheckout\CustomPortal\Playground\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Home\ExclusiveSeals\Playground\obj\Debug\Playground.vbprojAssemblyReference.cache
+C:\Home\ExclusiveSeals\Playground\obj\Debug\Playground.Resources.resources
+C:\Home\ExclusiveSeals\Playground\obj\Debug\Playground.vbproj.GenerateResource.cache
+C:\Home\ExclusiveSeals\Playground\obj\Debug\Playground.vbproj.CoreCompileInputs.cache
+C:\Home\ExclusiveSeals\Playground\obj\Debug\Playground.exe
+C:\Home\ExclusiveSeals\Playground\obj\Debug\Playground.xml
+C:\Home\ExclusiveSeals\Playground\obj\Debug\Playground.pdb
+C:\Home\ExclusiveSeals\Playground\bin\Debug\Playground.exe.config
+C:\Home\ExclusiveSeals\Playground\bin\Debug\Playground.exe
+C:\Home\ExclusiveSeals\Playground\bin\Debug\Playground.pdb
+C:\Home\ExclusiveSeals\Playground\bin\Debug\Playground.xml
+C:\Home\ExclusiveSeals\Playground\bin\Debug\DataModel.dll
+C:\Home\ExclusiveSeals\Playground\bin\Debug\EntityFramework.dll
+C:\Home\ExclusiveSeals\Playground\bin\Debug\EntityFramework.SqlServer.dll
+C:\Home\ExclusiveSeals\Playground\bin\Debug\DataModel.pdb
+C:\Home\ExclusiveSeals\Playground\bin\Debug\DataModel.xml
+C:\Home\ExclusiveSeals\Playground\bin\Debug\DataModel.dll.config
+C:\Home\ExclusiveSeals\Playground\bin\Debug\EntityFramework.xml
+C:\Home\ExclusiveSeals\Playground\bin\Debug\EntityFramework.SqlServer.xml
+C:\Home\ExclusiveSeals\Playground\obj\Debug\Playground.vbproj.CopyComplete

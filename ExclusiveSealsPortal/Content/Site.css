@@ -30,8 +30,9 @@ textarea {
 
 .jumbotron {
     margin-bottom: 0px;
-    background-image: url(../img/british-airways-logo.svg);
-    background-position: 0% 25%;
+    padding-top:170px;
+    background-image: url(../img/ExclusiveSeals.png);
+    background-position: 0% 50%;
     /*background-size: cover;*/
     background-repeat: no-repeat;
     /*color: white;
