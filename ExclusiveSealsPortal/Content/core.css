@@ -1,0 +1,24 @@
+﻿/* RESET STYLES */
+articleb {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    border-style: solid;
+    box-sizing: border-box;
+}
+
+articleb
+{
+    display: block;
+}
+
+h2, legend
+{
+    font-size: 1.25em; /* 24px */
+    font-weight: bold;
+    text-transform: uppercase;
+}
+

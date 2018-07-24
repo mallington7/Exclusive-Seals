@@ -1,0 +1,50 @@
+﻿
+/* POD Layout */
+articleb
+{
+    margin: 30px;
+    padding: 30px;
+}
+
+articleb h2
+{
+    margin: -20px -40px 20px -40px;
+    padding: 10px 10px 10px 30px;
+}
+
+
+
+/* Table Layout */
+articleb table
+{
+    border-width: 1px;
+    width: 100%;
+    margin: auto;
+}
+
+articleb th, articleb td
+{
+    text-align: left;
+    padding: 10px 20px;
+    border-width: 1px 0;
+}
+
+articleb td img
+{
+    vertical-align: middle;
+}
+
+articleb tr.filter th
+{
+    text-align: center;
+}
+
+articleb tr.filter a
+{
+    border-width: 1px;
+    display: inline-block;
+    margin: 0 3px;
+    padding: 3px;
+    min-width: 20px;
+    text-align: center;
+}

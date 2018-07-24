@@ -1,0 +1,54 @@
+﻿
+
+/* POD Styling */
+articleb
+{
+    background-color: rgb(241,241,241);
+}
+
+    articleb h2 {
+        background-color: rgb(255,255,255);
+        color: #192e4d;
+    }
+
+/* Table Layout */
+articleb table, 
+articleb th, 
+articleb td
+{
+    border-color: rgb(200,200,200);
+}
+
+/*articleb th,
+articleb tr.footer td
+{
+    color: rgb(255,255,255);
+    background-color: #EC732C;
+}*/
+
+articleb tr
+{
+    background-color: rgb(255, 255, 255);
+}
+
+articleb tr:nth-child(odd)
+{
+    background-color: rgb(245,245,245);
+}
+
+articleb th a
+{
+    color: rgb(255,255,255);
+}
+
+articleb tr.filter a
+{
+    background-color: rgb(255,255,255);
+    border-color: rgb(200,200,200);
+    color:rgb(139,197,67);
+}
+
+body {
+    color: rgb(51,51,51);
+    background-color: rgb(230,230,230);
+}

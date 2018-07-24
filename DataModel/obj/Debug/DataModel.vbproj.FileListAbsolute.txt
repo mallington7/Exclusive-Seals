@@ -1,0 +1,45 @@
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\DataModel\bin\Debug\DataModel.dll.config
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\DataModel\bin\Debug\DataModel.dll
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\DataModel\bin\Debug\DataModel.xml
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\DataModel\bin\Debug\EntityFramework.dll
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\DataModel\obj\Debug\DataModel.Resources.resources
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\DataModel\obj\Debug\DataModel.vbproj.GenerateResource.Cache
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\DataModel\obj\Debug\DataModel.vbproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\DataModel\obj\Debug\DataModel.dll
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\DataModel\obj\Debug\DataModel.xml
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\DataModel\obj\Debug\DataModel.pdb
+C:\Users\Work\Documents\Visual Studio 2017\Projects\CustomPortal\DataModel\obj\Debug\DataModel.vbprojResolveAssemblyReference.cache
+C:\Projects\FreshCheckout\CustomPortal\DataModel\bin\Debug\DataModel.dll.config
+C:\Projects\FreshCheckout\CustomPortal\DataModel\bin\Debug\DataModel.dll
+C:\Projects\FreshCheckout\CustomPortal\DataModel\bin\Debug\DataModel.pdb
+C:\Projects\FreshCheckout\CustomPortal\DataModel\bin\Debug\DataModel.xml
+C:\Projects\FreshCheckout\CustomPortal\DataModel\bin\Debug\EntityFramework.dll
+C:\Projects\FreshCheckout\CustomPortal\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\FreshCheckout\CustomPortal\DataModel\bin\Debug\EntityFramework.xml
+C:\Projects\FreshCheckout\CustomPortal\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\FreshCheckout\CustomPortal\DataModel\obj\Debug\DataModel.Resources.resources
+C:\Projects\FreshCheckout\CustomPortal\DataModel\obj\Debug\DataModel.vbproj.GenerateResource.Cache
+C:\Projects\FreshCheckout\CustomPortal\DataModel\obj\Debug\DataModel.vbproj.CoreCompileInputs.cache
+C:\Projects\FreshCheckout\CustomPortal\DataModel\obj\Debug\DataModel.dll
+C:\Projects\FreshCheckout\CustomPortal\DataModel\obj\Debug\DataModel.xml
+C:\Projects\FreshCheckout\CustomPortal\DataModel\obj\Debug\DataModel.pdb
+C:\Projects\FreshCheckout\CustomPortal\DataModel\obj\Debug\DataModel.vbprojResolveAssemblyReference.cache
+E:\Projects\FreshCheckout\CustomPortal\DataModel\bin\Debug\DataModel.dll.config
+E:\Projects\FreshCheckout\CustomPortal\DataModel\bin\Debug\DataModel.dll
+E:\Projects\FreshCheckout\CustomPortal\DataModel\bin\Debug\DataModel.pdb
+E:\Projects\FreshCheckout\CustomPortal\DataModel\bin\Debug\DataModel.xml
+E:\Projects\FreshCheckout\CustomPortal\DataModel\bin\Debug\EntityFramework.dll
+E:\Projects\FreshCheckout\CustomPortal\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\FreshCheckout\CustomPortal\DataModel\bin\Debug\EntityFramework.xml
+E:\Projects\FreshCheckout\CustomPortal\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\FreshCheckout\CustomPortal\DataModel\obj\Debug\DataModel.Resources.resources
+E:\Projects\FreshCheckout\CustomPortal\DataModel\obj\Debug\DataModel.vbproj.GenerateResource.Cache
+E:\Projects\FreshCheckout\CustomPortal\DataModel\obj\Debug\DataModel.vbproj.CoreCompileInputs.cache
+E:\Projects\FreshCheckout\CustomPortal\DataModel\obj\Debug\DataModel.dll
+E:\Projects\FreshCheckout\CustomPortal\DataModel\obj\Debug\DataModel.xml
+E:\Projects\FreshCheckout\CustomPortal\DataModel\obj\Debug\DataModel.pdb
+E:\Projects\FreshCheckout\CustomPortal\DataModel\obj\Debug\DataModel.vbprojResolveAssemblyReference.cache

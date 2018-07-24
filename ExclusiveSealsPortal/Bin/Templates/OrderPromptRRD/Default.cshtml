@@ -1,0 +1,105 @@
+﻿@using RazorEngine.Templating;
+@using CPI.Services.Email.Models;
+
+
+@inherits TemplateBase<OrderPromptRRD>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body style="font-family: 'Century Gothic', Arial, sans-serif; font-size: 12px;">
+
+    @{    
+        var tableStyle = "font-family: 'Century Gothic', sans-serif; font-size: 12px;";
+        var tableHeadTdStyle = "padding:2px 10px; border-top:1px solid black;";
+        var tableBodyTdStyle = "padding:2px 10px;";
+
+        var orders = 1;
+        var lines =  @Model.OrderLines.Count();
+        var FinishedQty = @Model.OrderLines.Sum(x => x.Copies);
+        var Proofs = @Model.OrderLines.Sum(x => x.ProofCopies);
+
+
+    }
+
+    <table style="@tableStyle">
+        <tr>
+            <td rowspan="2" style="@tableBodyTdStyle">
+                <img src="https://warehouse.cpicolour.co.uk/images/cpicolour.jpg" alt="CPI Warehouse" title="CPI Warehouse" />
+            
+            </td>
+            <td colspan="1" style="@tableBodyTdStyle">
+                <p>@Model.PromptType</p>
+            </td>
+            <tr>
+                <td valign="top" style="@tableBodyTdStyle">
+                    <table style="@tableStyle">
+                        <tr>
+                            <td colspan="2" style="@tableBodyTdStyle"><strong>Summary</strong></td>
+                        </tr>
+                        <tr>
+                            <td style="@tableBodyTdStyle"><strong>Order Lines</strong></td>
+                            <td style="@tableBodyTdStyle">@lines</td>
+                        </tr>
+                        <tr>
+                            <td style="@tableBodyTdStyle"><strong>Finished Qty</strong></td>
+                            <td style="@tableBodyTdStyle">@FinishedQty</td>
+                        </tr>
+                        <tr>
+                            <td style="@tableBodyTdStyle"><strong>Proof Qty</strong></td>
+                            <td style="@tableBodyTdStyle">@Proofs</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+    </table>
+
+    <br />
+    <br />
+
+    @{
+
+        var currentStyle = tableHeadTdStyle;
+
+    }
+
+    <table style='@tableStyle'>
+
+        <tr>
+            <td style='@tableHeadTdStyle'><strong>Order ID</strong></td>
+            <td style='@tableHeadTdStyle'><strong>MSN No</strong></td>
+            <td style='@tableHeadTdStyle'><strong>Copies</strong></td>
+             <td style='@tableHeadTdStyle'><strong>Proof Copies</strong></td>
+            <td style='@tableHeadTdStyle'><strong>File Name</strong></td>
+
+        </tr>
+      
+        @foreach (var order in Model.OrderLines)
+        {
+        
+            <tr>
+                    <td style='@currentStyle'>@order.ID   </td>
+                    <td style='@currentStyle'>@order.MSNNo </td>
+                    <td style='@currentStyle'>@order.Copies </td>
+                    <td style='@currentStyle'>@order.ProofCopies  </td>
+                    <td style='@currentStyle'>@order.FileName    </td>
+
+                    
+            </tr>
+           
+
+        }
+
+    </table>
+
+    <br />
+    <br />
+
+    <p>
+        CPI Colour Warehouse<br />
+        <a href="https://portal.cpicolour.co.uk">https://portal.cpicolour.co.uk</a>
+    </p>
+
+</body>
+</html>
